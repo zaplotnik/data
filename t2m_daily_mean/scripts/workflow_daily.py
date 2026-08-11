@@ -15,8 +15,8 @@ import cdstoolbox as ct
 
 global year,month,day
 year = 2024
-month =  2
-day = 14
+month =  3
+day = 18
 
 @ct.application(title='Download data')
 @ct.output.download()
